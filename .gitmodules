@@ -1,0 +1,3 @@
+[submodule "sub-project"]
+	path = sub-project
+	url = https://github.com/kurokawa5/sub-project.git
